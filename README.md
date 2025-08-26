@@ -1,10 +1,10 @@
 <h1 align="center">
-  Hi there, I'm Jason Emmanuel
+  Hi there, I'm Daniel Gabriel
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving Hand" width="40" style="vertical-align:middle; margin-left:10px;">
 </h1>
 
 ## 👨‍💻 About Me
-I am a Data Science and Engineering enthusiast, currently pursuing a Bachelor of Computer Science at Universitas Bina Nusantara (8th semester), majoring in Information Technology with a specialization in Computational Science. With hands-on experience through internships and projects, I have developed solutions in databases, AI, and cloud-based systems. My expertise includes Python, SQL, and deep learning, with a proactive approach to critical thinking and problem-solving. I am also passionate about the advancements of Industrial Revolution 4.0, particularly in integrating AI, IoT, big data, and automation to drive innovation and digital transformation across industries.
+I’m a Senior Full-Stack Software Engineer with over 8 years of experience building scalable applications, specializing in React, Node.js, and cloud technologies like AWS. I’ve worked across industries such as e-commerce, healthcare, and education, delivering impactful solutions like multi-vendor platforms and HIPAA-compliant systems.
 
 ## 🪄 Tech Stack & Tools
 
@@ -422,17 +422,5 @@ I am a Data Science and Engineering enthusiast, currently pursuing a Bachelor of
 
 ## 📬 Contact Me
 
-[![WhatsApp](https://img.shields.io/badge/📱%20Click%20Here%20to%20Chat%20on%20WhatsApp-green?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/6285219251800)
-[![Email](https://img.shields.io/badge/📧%20Click%20Here%20to%20Send%20Me%20an%20Email-blue?logo=gmail&logoColor=white&style=for-the-badge)](mailto:jasonemmanuel1112@gmail.com)
+[![Email](https://img.shields.io/badge/📧%20Click%20Here%20to%20Send%20Me%20an%20Email-blue?logo=gmail&logoColor=white&style=for-the-badge)](mailto:devity84.pro@gmail.com)
 
-
-## 🏆 My GitHub Stats
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=namoklom&show_icons=true&theme=gruvbox" alt="namoklom's GitHub stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namoklom&layout=compact&theme=gruvbox" alt="Top Languages" /></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=namoklom&theme=gruvbox" alt="GitHub Streak" />
-    </td>
