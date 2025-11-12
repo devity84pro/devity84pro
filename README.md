@@ -1,10 +1,8 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving Hand" width="40" style="vertical-align:middle; margin-left:10px;">
-  Hi there, I'm Snenior Dev
+  Hi there, I'm Veeraraghava  Vishtnupriya C.
 </h1>
 
-## 👨‍💻 About Me
-I’m a Senior Full-Stack Software Engineer with over 8 years of experience building scalable applications, specializing in React, Node.js, and cloud technologies like AWS. I’ve worked across industries such as e-commerce, healthcare, and education, delivering impactful solutions like multi-vendor platforms and HIPAA-compliant systems.
 
 ## 🪄 Tech Stack & Tools
 
