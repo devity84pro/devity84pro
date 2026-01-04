@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving Hand" width="40" style="vertical-align:middle; margin-left:10px;">
-  Hi there, I'm Veeraraghava  Vishtnupriya C.
+  Hi there, I'm a Senior Full-Stack Developer.
 </h1>
 
 
